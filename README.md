@@ -8,6 +8,9 @@ This project was created as a foundational exercise in front-end development. Th
 ## 🔗 Live Preview
 You can view the live version of this project here: **[Live Demo](https://vansh-ghanchi.github.io/Interactive-2025-Calendar-/)**
 
+## 📸 Project Preview
+![Project Screenshot](preview.png)
+
 ## 🛠️ Tech Stack
 - **HTML5**: For structured content and semantic elements.
 - **CSS3**: For advanced styling, animations, and layout management.
