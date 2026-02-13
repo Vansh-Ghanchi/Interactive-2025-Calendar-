@@ -5,10 +5,10 @@ A clean, responsive, and visually engaging web-based calendar project built to p
 ## 🌟 Project Overview
 This project was created as a foundational exercise in front-end development. The goal was to build a structured 12-month calendar that is not only functional but also visually appealing. It features a modern dark-themed aesthetic with a video background and interactive date cells that link to various media resources.
 
-## � Live Preview
-You can view the live version of this project here: **[Live Demo](https://your-username.github.io/calendar-2025/)** *(Replace with your actual link)*
+## 🔗 Live Preview
+You can view the live version of this project here: **[Live Demo](https://vansh-ghanchi.github.io/Interactive-2025-Calendar-/)**
 
-## �🛠️ Tech Stack
+## 🛠️ Tech Stack
 - **HTML5**: For structured content and semantic elements.
 - **CSS3**: For advanced styling, animations, and layout management.
 - **Media**: Integrated video background and image/video resources for interactivity.
