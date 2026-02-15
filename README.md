@@ -17,12 +17,13 @@ You can view the live version of this project here: **[Live Demo](https://vansh-
 - **Media**: Integrated video background and image/video resources for interactivity.
 
 ## ✨ Features
-- **Full Year Layout**: Displays all 12 months of 2025 in a clean, organized grid.
-- **Dynamic Background**: Implements a high-quality video background for a premium look.
-- **Interactive Dates**: Specific dates are clickable, leading to unique images or videos, making the calendar feel "alive."
-- **Visual Feedback**: Hover effects on calendar cards and date cells provide a smooth user experience.
-- **Custom Animations**: CSS keyframe animations for interactive links to catch the user's eye.
-- **Professional Styling**: Uses a curated color palette (Blueviolet, Red, and Translucent backgrounds) for a modern feel.
+- **Modern Glassmorphism**: Utilizes `backdrop-filter` for a premium, frosted-glass aesthetic.
+- **Responsive Layout**: Completely redesigned with CSS Grid and Flexbox for mobile, tablet, and desktop compatibility.
+- **Smart Navigation**: A quick-access menu to jump between months with smooth scrolling.
+- **Auto-Highlight Today**: JavaScript logic that automatically identifies and highlights the current date.
+- **Dynamic Background**: High-quality video background with optimized brightness for readability.
+- **Full Year Layout**: Displays all 12 months of 2025 in a clean, organized responsive grid.
+- **Interactive Dates**: Specific dates remain clickable, leading to unique images or videos.
 
 ## 🚀 Installation & How to Run
 Since this is a static front-end project, you don't need any complex setup.
@@ -49,4 +50,4 @@ During the development of this project, I strengthened my skills in:
 - **Responsive Thinking**: Aligning multiple `inline-block` elements to create a grid-like view.
 
 ---
-*Created with ❤️ by [Ghanchi Vansh]*
+*Crafted with ❤️ by Ghanchi Vansh*
