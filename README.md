@@ -1,53 +1,47 @@
 # 📅 2025 Interactive Calendar
 
-A clean, responsive, and visually engaging web-based calendar project built to practice advanced HTML layout and CSS styling techniques. This project showcases a full-year calendar for 2025 with interactive elements and a dynamic background.
-
-## 🌟 Project Overview
-This project was created as a foundational exercise in front-end development. The goal was to build a structured 12-month calendar that is not only functional but also visually appealing. It features a modern dark-themed aesthetic with a video background and interactive date cells that link to various media resources.
+A clean, high-end, responsive web-based calendar project featuring modern design principles. This project showcases a full-year calendar for 2025 with glassmorphism effects, interactive elements, and a dynamic video background.
 
 ## 🔗 Live Preview
-You can view the live version of this project here: **[Live Demo](https://vansh-ghanchi.github.io/Interactive-2025-Calendar-/)**
+Experience the full interactivity here: **[Live Demo](https://vansh-ghanchi.github.io/Interactive-2025-Calendar-/)**
 
 ## 📸 Ghanchi Vansh's Project Preview
 ![Project Screenshot](preview_v2.png)
 
 ## 🛠️ Tech Stack
-- **HTML5**: For structured content and semantic elements.
-- **CSS3**: For advanced styling, animations, and layout management.
-- **Media**: Integrated video background and image/video resources for interactivity.
+This project is built using pure, high-performance web technologies:
+- **HTML5**: Semantic structure for accessibility and SEO.
+- **CSS3 (Modern)**: 
+  - **Glassmorphism**: Advanced UI with `backdrop-filter`.
+  - **CSS Grid & Flexbox**: Dynamic 4-column layout (Desktop) that scales to 1-column (Mobile).
+  - **Keyframe Animations**: Custom smooth transitions and pulsing interactive elements.
+- **Vanilla JavaScript**: 
+  - **Auto-Today Logic**: Real-time detection and highlighting of the current date.
+  - **Smooth Navigation Engine**: Custom scroll behavior for the month-jump menu.
+  - **UI Interaction**: Hidden-to-visible "Back to Top" button logic.
 
-## ✨ Features
-- **Modern Glassmorphism**: Utilizes `backdrop-filter` for a premium, frosted-glass aesthetic.
-- **Responsive Layout**: Completely redesigned with CSS Grid and Flexbox for mobile, tablet, and desktop compatibility.
-- **Smart Navigation**: A quick-access menu to jump between months with smooth scrolling.
-- **Auto-Highlight Today**: JavaScript logic that automatically identifies and highlights the current date.
-- **Dynamic Background**: High-quality video background with optimized brightness for readability.
-- **Full Year Layout**: Displays all 12 months of 2025 in a clean, organized responsive grid.
-- **Interactive Dates**: Specific dates remain clickable, leading to unique images or videos.
+## ✨ Key Features
+- **💎 Glassmorphism Cards**: Premium frosted-glass aesthetic for every month.
+- **📱 Ultra-Responsive**: Perfectly balanced 4x3 grid on desktop, 2-column on tablets, and 1-column on mobile.
+- **📍 Sticky Navigation Pill**: A floating menu that stays at the top for quick access to any month.
+- **🌙 High-Contrast Sunday Highlighting**: Improved visibility for weekends using Coral Red.
+- **⚡ Interactive Media Links**: Specific dates pulse with light and link to unique images or videos.
+- **🔝 One-Click Return**: Floating "Back to Top" button with a smooth glide animation.
 
-## 🚀 Installation & How to Run
-Since this is a static front-end project, you don't need any complex setup.
+## 🚀 How to Run Locally
+Since this is a modern front-end project, it runs directly in any browser with zero installation.
 
-1. **Clone the repository** (or download the files):
+1. **Download/Clone** the project:
    ```bash
-   git clone https://github.com/your-username/calendar-2025.git
+   git clone https://github.com/Vansh-Ghanchi/Interactive-2025-Calendar-.git
    ```
-2. **Navigate to the project folder**:
-   ```bash
-   cd calendar-2025
-   ```
-3. **Open the project**:
-   - Simply double-click on `index.html` to open it in your default web browser.
-   - Alternatively, use a Live Server extension (like in VS Code) for a better development experience.
+2. **Open** the folder and double-click `index.html`.
 
-## 🧠 What I Learned
-During the development of this project, I strengthened my skills in:
-- **Table Management**: Mastering HTML tables for complex data structures like a calendar.
-- **CSS Positioning**: Using `fixed` positioning for seamless background video integration.
-- **Transitions & Transforms**: Implementing smooth hover effects (`transform: translateY`) to improve interactivity.
-- **Keyframe Animations**: Creating custom pulsing effects for links to guide user attention.
-- **Asset Integration**: Handling various media types (MP4, JPG) within a single web page.
-- **Responsive Thinking**: Aligning multiple `inline-block` elements to create a grid-like view.
+## 🧠 What I Mastered
+- **Responsive Grid Architecture**: Designing a 4-column system that manages 12 complex items across all screen sizes.
+- **Premium UI/UX Patterns**: Implementing glassmorphism and sticky headers while avoiding element overlap (using `scroll-margin-top`).
+- **Dynamic DOM Manipulation**: Using JavaScript to find and style the current date based on live system time.
+- **Modern Git Workflow**: Pushing high-quality UI updates and managing asset caching (Busting cache with `v2` filenames).
 
 ---
 *Crafted with ❤️ by Ghanchi Vansh*
