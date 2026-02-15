@@ -8,7 +8,7 @@ This project was created as a foundational exercise in front-end development. Th
 ## 🔗 Live Preview
 You can view the live version of this project here: **[Live Demo](https://vansh-ghanchi.github.io/Interactive-2025-Calendar-/)**
 
-## 📸 Project Preview
+## 📸 Ghanchi Vansh's Project Preview
 ![Project Screenshot](preview.png)
 
 ## 🛠️ Tech Stack
